@@ -8,8 +8,8 @@
   * HTML, CSS, JS
   * Postgres, Oracle
 * Here are the thins that i'm currently studiyng
-  * PHP, Python, Java
   * Laravel
+  * PHP, Python, Java
   * Selenium, RestAssored
   * GIT, DevOps
   * SQLite
