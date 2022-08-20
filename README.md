@@ -11,9 +11,10 @@
     * CSS
     * JS
   * Database Tecnologies
-    * Sql
     * Postgres
-    * Oracle
+  * Misc
+    * GIT
+    * Azure
 ### Here are the technologies that i'm currently studiyng
   * Frameworks:
     * Laravel
@@ -33,6 +34,7 @@
     * Java
   * Database Tecnologies
     * SQLite
+    * Oracle
   * BI
     * QlikSens
     * QlikView
