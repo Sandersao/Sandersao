@@ -2,8 +2,10 @@
 * 👋 Hi, I’m @Sandersao
 * 👀 I’m interested in Deleopment
 * 📫 My primary e-mail is sanduba753@gmail.com and you can reach me through there
-## Ablout my knowledge
+## Aboult my knowledge
 ### Herer are the technologies that I corretly working with
+  * Frameworks:
+    * Laravel
   * Linguages
     * PHP
   * Web
@@ -16,10 +18,6 @@
     * GIT
     * Azure
 ### Here are the technologies that i'm currently studiyng
-  * Frameworks:
-    * Laravel
-  * Programing lingages
-    * PHP
   * Testing Tools
     * PHPUnit
     * Mock
