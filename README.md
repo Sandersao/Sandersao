@@ -1,13 +1,14 @@
 ## Aboult Me
 * 👋 Hi, I’m @Sandersao
-* 👀 I’m interested in Deleopment
-* 📫 My primary e-mail is sanduba753@gmail.com and you can reach me through there
+* 👀 I’m interested in the area of development, PHP amd JS
+* 📫 My linkedin profile is [Here](https://www.linkedin.com/in/sanderson-rocha-122524187/) you can reach-me through there
 ## Aboult my knowledge
 ### Herer are the technologies that I corretly working with
   * Frameworks:
     * Laravel
   * Linguages
     * PHP
+    * JavaScript
   * Web
     * HTML
     * CSS
@@ -18,6 +19,10 @@
     * GIT
     * Azure
 ### Here are the technologies that i'm currently studiyng
+  * Frameworks
+    * Angular
+  * Development
+    * Webpack
   * Testing Tools
     * PHPUnit
     * Mock
