@@ -6,7 +6,7 @@
 ### Herer are the technologies that I corretly working with
   * Frameworks:
     * Laravel
-  * Linguages
+  * Languages
     * PHP
     * JavaScript
   * Web
