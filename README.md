@@ -1,6 +1,6 @@
 ## Aboult Me
 * 👋 Hi, I’m @Sandersao
-* 👀 I’m interested in the area of development, PHP and JS
+* 👀 I’m interested in the area of development, PHP and TS/JS
 * 📫 My linkedin profile is [Here](https://www.linkedin.com/in/sanderson-rocha-122524187/) you can reach-me through there
 ## Aboult my knowledge
 ### Herer are the technologies that I corretly working with
