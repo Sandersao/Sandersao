@@ -6,9 +6,10 @@
 ### Herer are the technologies that I corretly working with
   * Frameworks:
     * Laravel
+    * Nest
   * Languages
     * PHP
-    * JavaScript
+    * TypeScript(JS)
   * Web
     * HTML
     * CSS
